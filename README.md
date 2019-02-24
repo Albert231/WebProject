@@ -64,7 +64,8 @@
         				<img src="imgs/2.jpg" class="d-block img-fluid">
         				<div class="carousel-caption d-none d-md-block">
           					<h5>Tell Them About You </h5>
-          					<p>Give your company a voice, tell the world who you are and what you're looking for!</p>
+          					<p>Give your company a voice, tell the world who you are and what you're looking for
+						</p>
         				</div>
       				</div>
       				<div class="carousel-item">
