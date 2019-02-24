@@ -3,11 +3,12 @@
 
 # Code Progress
 -------------------------------------------------------------------------------------------------------------------------------------
+# Abdoulaye Traore:
 
-# Albert Linares:
 <!DOCTYPE html>
 <html>
 <head>
+	
 	<title>Business Publications</title>
 	<link rel="stylesheet" href="style.css">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -15,8 +16,10 @@
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+	
 </head>
 <body>
+	
 	<!--Navigational Bar-->
 	<section id="nBar">
 		<nav class="navbar navbar-expand-lg navbar-light">
@@ -43,7 +46,7 @@
 		</nav>
 	</section>
 	
-# Abdoulaye Traore:
+# Albert Linares:
 	<!--Image Slider-->
 	<div id="slider">
 		<div class="slides">
@@ -122,3 +125,102 @@
 	</section>
 </body>
 </html>
+
+# Adem Kakhadze:
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+/*___Navagational Bar___*/
+#nBar
+{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+
+.navbar-brand img
+{
+	/*Logo customizations*/
+	height: 70px;
+	padding-left: 30px;
+}
+
+.navbar-nav li
+{
+	padding: 0 10px;
+}
+
+.navbar-nav li a
+{
+	float: right;
+	text-align: left;
+}
+
+#nBar ul li a:hover
+{
+	/*The Color for the tabs (while hovering)*/
+	color: #FF0000!important;
+}
+
+.navbar
+{
+	background-color: #fff;
+}
+
+.navbar-toggler
+{
+	border: none!important;
+}
+
+.nav-link
+{
+	color: #555!important;
+	font-weight: 600;
+	font-size: 16px;
+}
+
+/*___Page Slider___*/
+#slider
+{
+	width: 100%;
+}
+
+/*___About Us___*/
+#aboutUs
+{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: #555;
+}
+
+#aboutUs .btn
+{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.about-content
+{
+	padding-top: 20px;
+}
+
+.skills-bars
+{
+	margin-bottom: 6px;
+	font-weight: 600;
+}
+
+.progress-bar
+{
+	border-radius: 20px;
+}
+
+.progress
+{
+	border-radius: 16px;
+	margin-bottom: 20px;
+}
