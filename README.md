@@ -41,9 +41,7 @@
   			</div>
 		</nav>
 	</section>
-------------------------------------------------------------------------------------------------------------------------------------- 
-# Abdoulaye Traore:
-<!--Image Slider-->
+	<!--Image Slider-->
 	<div id="slider">
 		<div class="slides">
   			<div id="hSlider" class="carousel slide" data-ride="carousel">
@@ -87,8 +85,7 @@
   			</div>
 		</div>
 	</div>
-  
-  <!--About Us-->
+	<!--About Us-->
 	<section id="aboutUs">
 		<div class="container">
 			<div class="row">
@@ -96,7 +93,7 @@
 					<h2>About Us</h2>
 					<div class="about-content">
 						<p>This website is more about giving back. We know how hard it is to get exposure for a Business/Company that is still growing. Here at Business Publications we've designed this website with one intention, and that is to help your Businesses expand.</p>
-            <p>We have decided to become a central hub in which businesses or companies may publish information about what they do and what they are looking for in a customer, or if they are in need of workers, in a employee.</p>
+						<p>We have decided to become a central hub in which businesses or companies may publish information about what they do and what they are looking for in a customer, or if they are in need of workers, in a employee.</p>
 					</div>
 					<button type="button" class="btn btn-primary">Read more...
 				</div>
@@ -122,104 +119,3 @@
 	</section>
 </body>
 </html>
--------------------------------------------------------------------------------------------------------------------------------------
-# Adem Kakhadze:
-*
-{
-	margin: 0;
-	padding: 0;
-}
-
-/*___Navagational Bar___*/
-#nBar
-{
-	position: sticky;
-	top: 0;
-	z-index: 10;
-}
-
-.navbar-brand img
-{
-	/*Logo customizations*/
-	height: 70px;
-	padding-left: 30px;
-}
-
-.navbar-nav li
-{
-	padding: 0 10px;
-}
-
-.navbar-nav li a
-{
-	float: right;
-	text-align: left;
-}
-
-#nBar ul li a:hover
-{
-	/*The Color for the tabs (while hovering)*/
-	color: #FF0000!important;
-}
-
-.navbar
-{
-	background-color: #fff;
-}
-
-.navbar-toggler
-{
-	border: none!important;
-}
-
-.nav-link
-{
-	color: #555!important;
-	font-weight: 600;
-	font-size: 16px;
-}
-
-/*___Page Slider___*/
-#slider
-{
-	width: 100%;
-}
-
-/*___About Us___*/
-#aboutUs
-{
-	padding-top: 50px;
-	padding-bottom: 50px;
-	color: #555;
-}
-
-#aboutUs .btn
-{
-	margin-top: 20px;
-	margin-bottom: 30px;
-}
-
-.about-content
-{
-	padding-top: 20px;
-}
-
-.skills-bars
-{
-	margin-bottom: 6px;
-	font-weight: 600;
-}
-
-.progress-bar
-{
-	border-radius: 20px;
-}
-
-.progress
-{
-	border-radius: 16px;
-	margin-bottom: 20px;
-}
-	
-
-
