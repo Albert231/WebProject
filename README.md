@@ -23,4 +23,4 @@ Time: 1 hour and 13 minutes
     upload content about their business/companies or would 
     we rather let them email us and then let us publish it 
     for them (that way we keep a professional website by 
-    maintaining control.
+    maintaining control.)
