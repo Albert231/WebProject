@@ -12,6 +12,10 @@ Time: 2 hours and 23 minutes
     we wanted published based off our idea of how the website
     would look
     
+   * Adem started to code .css file for the style and editorial 
+     of the webpage and Abdoulaye and I (Albert Linares) started
+     to code HTML/PHP file to displayh webpage.
+    
 Date: 03/3/2019
 Members (present): Albert, Abdoulaye, Adem
 Time: 1 hour and 13 minutes
@@ -24,3 +28,6 @@ Time: 1 hour and 13 minutes
     we rather let them email us and then let us publish it 
     for them (that way we keep a professional website by 
     maintaining control.)
+    
+   * Adem coding .css file, Abdoulaye and I (Albert Linares) 
+     continued to code HTML/PHP file 
