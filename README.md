@@ -1,8 +1,8 @@
 # WebProject
-# Authors: Albert Linares, Abdoulaye Traore, Adem Kakhadze
+# Authors: Albert Linares, Abdoulaye Traore, Adem Kakhadze, Gali Sabyr
 
 Date: 02/24/2019
-Members (present): Albert, Abdoulaye, Adem
+Members (present): Albert, Abdoulaye, Adem, Gali
 Time: 2 hours and 23 minutes
   
   * Brought parts of the code so we could get to coding the 
@@ -17,7 +17,7 @@ Time: 2 hours and 23 minutes
      to code HTML/PHP file to displayh webpage.
     
 Date: 03/03/2019
-Members (present): Albert, Abdoulaye, Adem
+Members (present): Albert, Abdoulaye, Adem, Gali
 Time: 1 hour and 13 minutes
 
   * We continued to code from where we left off last week
@@ -33,7 +33,7 @@ Time: 1 hour and 13 minutes
      continued to code HTML/PHP file 
 
 Date: 03/10/2019
-Members (present): Albert, Abdoulaye, Adem
+Members (present): Albert, Abdoulaye, Adem, Gali
 Time: 1 hours and 4 minutes
 
    * We decided that we want the users to email us (our support
